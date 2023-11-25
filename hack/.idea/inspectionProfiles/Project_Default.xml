@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="shopapp.models.Order.objects" />
+          <option value="django.http.request.HttpRequest.user" />
+          <option value="permissions.mysite.shopapp.models.Order.objects" />
+          <option value="permissions.mysite.myauth.models.Profile.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
